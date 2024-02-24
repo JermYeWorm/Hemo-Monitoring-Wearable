@@ -3,4 +3,6 @@ A novel wearable health platform for hemodialysis patients to monitor post-surge
 
 # Contributors
 Project Researcher - Jeremy Yun
+<br>
 Principal Investigator - Sahil Shah
+<br>
