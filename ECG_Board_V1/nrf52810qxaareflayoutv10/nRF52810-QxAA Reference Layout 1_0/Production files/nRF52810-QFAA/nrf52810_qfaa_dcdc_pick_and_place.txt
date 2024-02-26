@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+D:\Applications\reference_layouts\nrf52810_qxaa\trunk\production_files\nrf52810_qfaa_dcdc_pick_and_place.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26.09.17
+Time:       17:12
+Revision:   13133
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint            Center-X(mil) Center-Y(mil) Rotation Description                                                                      
+C10        1.0µF         TopLayer CAPC1608X06L         -107.972      308.200       310      "Capacitor, X7R, ±10%"                                                           
+L3         15nH          TopLayer INDC1005X04L         -134.972      274.200       310      "High frequency chip inductor ±10%"                                              
+L2         10µH          TopLayer INDC1608X06L         -89.000       192.203       270      "Chip inductor, IDC,min = 50 mA, ±20%"                                           
+C4         100nF         TopLayer CAPC1005X04L         -210.000      74.000        180      "Capacitor, X7R, ±10%"                                                           
+C5         100nF         TopLayer CAPC1005X04L         -112.000      -161.000      180      "Capacitor, X7R, ±10%"                                                           
+C7         100pF         TopLayer CAPC1005X04L         208.000       103.000       360      "Capacitor, NP0, ±5%"                                                            
+C1         12pF          TopLayer CAPC1005X04L         333.993       181.007       270      "Capacitor, NP0, ±2%"                                                            
+X1         32MHz         TopLayer BT-XTAL_2016         263.993       181.007       180      "XTAL SMD 2016, 32MHz, Cl=8pF, Total Tol: ±40ppm"                                
+C8         100nF         TopLayer CAPC1005X04L         158.994       181.007       90       "Capacitor, X7R, ±10%"                                                           
+C9         4.7µF         TopLayer CAPC1608X06L         -210.000      115.000       180      "Capacitor, X5R, ±10%"                                                           
+C6         N.C.          TopLayer CAPC1005X04L         208.000       68.000        180      "Not mounted"                                                                    
+C2         12pF          TopLayer CAPC1005X04L         193.994       181.007       90       "Capacitor, NP0, ±2%"                                                            
+U1         nRF52810-QFAA TopLayer QFN40P600X600X90-48N 0.000         0.000         360      "Multi-protocol Bluetooth Low Energy, ANT and 2.4GHz proprietary system-on-chip" 
+L1         3.9nH         TopLayer INDC1005X04L         221.000       -20.000       360      "High frequency chip inductor ±5%"                                               
+C3         0.8pF         TopLayer CAPC1005X04L         165.000       0.000         270      "Capacitor, NP0, ±5%"                                                            
+X2         32.768kHz     TopLayer XTAL_3215            -294.000      -15.000       270      "XTAL SMD 3215, 32.768kHz, Cl=9pF, Total Tol: ±50ppm"                            
+C12        12pF          TopLayer CAPC1005X04L         -294.000      -106.000      180      "Capacitor, NP0, ±2%"                                                            
+C11        12pF          TopLayer CAPC1005X04L         -238.000      18.000        270      "Capacitor, NP0, ±2%"                                                            
+C13        N.C.          TopLayer CAPC1005X04L         -32.000       259.000       360      "Not mounted"                                                                    
