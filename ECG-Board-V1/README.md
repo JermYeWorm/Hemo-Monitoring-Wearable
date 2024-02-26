@@ -1,7 +1,7 @@
 # V1 ECG Test Board (OBSOLETE)
 
 ## Schematic
-[v1-ecg-board.pdf](https://github.com/JermYeWorm/IPG-Wearable/files/14401248/v1-ecg-board.pdf)
+![1708933498444-6b20d6e2-f73a-432d-b5eb-fdca50c675fd_1](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/c6ec5811-8143-4a4e-a6e6-fb0c2a1893a3)
 
 
 ## Layout
