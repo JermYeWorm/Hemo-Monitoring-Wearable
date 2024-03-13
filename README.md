@@ -3,7 +3,8 @@ A novel wearable health platform for hemodialysis patients to monitor post-surge
 <br><br>
 
 ## System Flowchart
-![image](https://github.com/JermYeWorm/IPG_Wearable/assets/113321384/c98f8319-a10e-4221-8a99-17a7fb448827)
+![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/556fe4db-6fe8-4a1d-b7a9-3fbdb7fdc515)
+
 
 
 
