@@ -7,7 +7,10 @@ A novel wearable health platform for hemodialysis patients to monitor post-surge
 <br><br>
 
 ## Hardware
-
+![Screenshot 2024-04-16 013323](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/3529a5ce-b0ac-466c-a870-96e63b97354b)
+<br>
+![Screenshot 2024-04-16 013526](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/0e9a6179-e634-41bd-9999-9eb421ca9684)
+<br><br>
 
 ## Contributors
 Project Researcher - Jeremy Yun
