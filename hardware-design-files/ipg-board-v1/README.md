@@ -1,5 +1,13 @@
 # IPG Board V1
 
+Hierarchical Schematic Structure:<br>
+```
+├── [1] ipg_wearable.SchDoc
+        ├── [2] sensors.SchDoc
+        ├── [3] connectors.SchDoc
+        └── [4] power_supply.SchDoc
+```
+
 ## Board Layout
 ![v1-ipg-layout](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/efaaad1e-1784-4e3c-94b8-3a781a63ca1e)
 <br><br>
