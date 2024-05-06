@@ -1,5 +1,6 @@
 # IPG Board V1
 
+## Schematic
 Hierarchical Schematic Structure:<br>
 ```
 ├── [1] ipg_wearable.SchDoc
