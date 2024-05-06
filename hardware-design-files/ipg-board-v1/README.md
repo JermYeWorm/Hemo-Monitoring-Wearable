@@ -15,7 +15,7 @@ Hierarchical Schematic Structure:<br>
 <br>_Fig 2. GND Layer_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/f3cc15ef-bf16-436c-a69f-bfac4d7dbc25)
 <br>_Fig 3. PWR Layer_<br><br>
-![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/959a5226-5960-4b7e-b119-9b9370c539df)
+![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/ee679546-e9ff-4c30-8e5e-7ae01409f6f2)
 <br>_Fig 4. Bottom Layer (Signal)_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/156e53fa-7c06-43ac-8e4b-818b9fdacad8)
 <br>_Fig 5. Mechanical + Dimensions_<br><br>
