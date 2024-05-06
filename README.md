@@ -1,4 +1,4 @@
-# IPG Wearable
+# IPG Wearable Health Monitoring Device
 A novel wearable health platform for hemodialysis patients to monitor post-surgery vascular flow characteristics in arteriovenous fistulas (AVFs) through impedance plethysmography (IPG). The goal is to enable real time processing by integrating both analog front end and edge ML, before wireless transmit. The current revision is IPG, ECG, and photoplethysmography (PPG) bio-monitoring enabled. The PPG system is capable of performing heart rate measurements and pulse oximetry.
 <br><br>
 
