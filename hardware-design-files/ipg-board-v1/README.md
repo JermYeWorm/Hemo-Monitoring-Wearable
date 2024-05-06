@@ -7,6 +7,15 @@ Hierarchical Schematic Structure:<br>
         ├── [3] connectors.SchDoc
         └── [4] power_supply.SchDoc
 ```
+<br>
+![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_1](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1bcfb217-ee86-4031-a256-b54e2cefd6c1)
+<br>
+![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_2](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/29d9bdce-02a3-41f3-9d10-136f45512d3f)
+<br>
+![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_3](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1b167fc5-132d-4a4d-93b4-5fcd07ea8abc)
+<br>
+![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_4](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/7d4a8488-626c-43fd-980a-48f274413e8d)
+<br><br>
 
 ## Board Layout
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/0f92435f-ac0c-421e-9a39-34618c8f7516)
