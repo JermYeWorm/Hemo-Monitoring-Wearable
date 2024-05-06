@@ -9,20 +9,16 @@ Hierarchical Schematic Structure:<br>
 ```
 
 ## Board Layout
-![v1-ipg-layout](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/efaaad1e-1784-4e3c-94b8-3a781a63ca1e)
-<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/0f92435f-ac0c-421e-9a39-34618c8f7516)
-<br><br>
+<br>_Fig 1. Top Layer (Signal)_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/dd254d63-ee3c-4daf-88ca-807670cd68d3)
-<br><br>
+<br>_Fig 2. GND Layer_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/f3cc15ef-bf16-436c-a69f-bfac4d7dbc25)
-<br><br>
+<br>_Fig 3. PWR Layer_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/959a5226-5960-4b7e-b119-9b9370c539df)
-<br><br>
-![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/9b237f93-cba7-429b-9cf2-e47cf12e2406)
-<br><br>
+<br>_Fig 4. Bottom Layer (Signal)_<br><br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/156e53fa-7c06-43ac-8e4b-818b9fdacad8)
-<br><br>
+<br>_Fig 5. Mechanical + Dimensions_<br><br>
 
 ## 3D Model
 ![v1-ipg-front](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1760f4b1-e788-44fd-8f6d-9f1e72aecd05)
