@@ -9,7 +9,7 @@ A novel wearable health platform for hemodialysis patients to monitor post-surge
 ## Hardware
 The wearable platform runs on a BLE capable nRF52840 MCU SoC within a NINA-B302 FIFA antenna module. 
 <br><br>
-The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of an Arduino Nano 33 BLE. This allows for the burning of an Arduino Nano 33 BLE bootloader and still function with no internal Arduino library modifications or need to access hidden pins. The MCU may also be programmed directly using the nRF Connect SDK.
+The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of an Arduino Nano 33 BLE. This allows for programmming via Arduino IDE after the burning of an Arduino Nano 33 BLE bootloader without the need for internal Arduino library pinout modifications. The MCU may also be programmed directly using the nRF Connect SDK.
 <br><br>
 The MCU is an open CPU and will require access through the SWD interface to enable programming through the USB port. A standard JLink with a 10 pin SWD cable connected to the J1 connector will allow for hardware debug and burning of bootloaders. 
 <br><br>
