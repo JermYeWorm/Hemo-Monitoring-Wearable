@@ -10,7 +10,6 @@ Hierarchical Schematic Structure:<br>
 <br>
 ![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_1](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/26b00149-5dd8-4226-9bc7-3e8e0e4e1620)
 <br>
-
 ![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_2](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/29d9bdce-02a3-41f3-9d10-136f45512d3f)
 <br>
 ![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_3](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1b167fc5-132d-4a4d-93b4-5fcd07ea8abc)
