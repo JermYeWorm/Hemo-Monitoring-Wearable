@@ -1,4 +1,4 @@
-# V2 ECG Test Board
+# V2 ECG Test Board (OBSOLETE)
 AD8232 based ECG acquisition board. Jumper configurations allow for two lead and three lead switching.
 
 ## Schematic
