@@ -8,7 +8,7 @@ Hierarchical Schematic Structure:<br>
         └── [4] power_supply.SchDoc
 ```
 <br>
-![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_1](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1bcfb217-ee86-4031-a256-b54e2cefd6c1)
+![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_1](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/74255f63-966a-49ae-b730-25c3fabaf90c)
 <br>
 ![1714973704757-3ba7de04-8b89-4758-92bf-7abcabce8b58_2](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/29d9bdce-02a3-41f3-9d10-136f45512d3f)
 <br>
