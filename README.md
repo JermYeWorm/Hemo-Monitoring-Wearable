@@ -1,6 +1,8 @@
 # IPG Wearable Platform
 This device is a wearable health platform for hemodialysis patients to monitor post-surgery vascular flow characteristics in arteriovenous fistulas (AVFs) through impedance plethysmography (IPG). The goal is to enable real time processing by integrating both analog front end and edge ML, before wireless transmit. The current revision is IPG, ECG, and photoplethysmography (PPG) bio-monitoring enabled. The PPG system is capable of performing heart rate measurements and pulse oximetry.
 <br><br>
+The ongoing work done on this project has been under the supervision of Dr. Sahil Shah.
+<br><br>
 
 ## System Flowchart
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/9509c466-9438-4529-a761-cc8f7f295b4b)
