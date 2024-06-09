@@ -3,7 +3,7 @@ This device is an open-source, programmable, highly-integrated wearable platform
 <br><br>
 The ongoing work done on this project has been done with the Shah lab at the University of Maryland, College Park.
 <br><br>
-![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/26b60109-127e-41b3-b0a5-bb0522445339)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/a1fd0d2d-41c1-4abf-bccf-92a026fa436c)
 <br><br>
 
 
