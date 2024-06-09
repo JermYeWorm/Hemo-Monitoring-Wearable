@@ -16,7 +16,7 @@ The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of
 <br><br>
 The MCU is an open CPU and will require access through the SWD interface to enable programming through the USB port. A standard JLink with a 10 pin SWD cable connected to the J1 connector will allow for hardware debug and burning of bootloaders. 
 <br><br>
-![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/294a5f3f-583c-4540-96e9-0055d3653be1)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/f0bbec63-19a3-4b9d-a7f0-2ccc668637fa)
 <br>
 
 <br>
