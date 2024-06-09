@@ -3,6 +3,8 @@ This device is an open-source, programmable, highly-integrated wearable platform
 <br><br>
 The ongoing work done on this project has been done with the Shah lab at the University of Maryland, College Park.
 <br><br>
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/243fb198-044d-41e0-9243-c32513a10c1a)
+<br><br>
 
 
 ## System Flowchart
@@ -16,11 +18,9 @@ The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of
 <br><br>
 The MCU is an open CPU and will require access through the SWD interface to enable programming through the USB port. A standard JLink with a 10 pin SWD cable connected to the J1 connector will allow for hardware debug and burning of bootloaders. 
 <br><br>
-![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/f0bbec63-19a3-4b9d-a7f0-2ccc668637fa)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/dd65ab83-1b07-4aad-ad64-3bf811d65519)
 <br>
-
-<br>
-![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/6b7a42f4-19e5-4ef3-a293-142e4cccbfd8)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/3e39affa-d2bf-464c-91aa-b6333be164a8)
 <br><br>
 
 ### Schematic
@@ -66,6 +66,10 @@ Hierarchical Schematic Structure:<br>
 
 ![v1-ipg-iso](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/b7dc9d76-87b1-4f1e-a144-0eb8fcd5f38e)
 <br>_Fig 3. Isometric View_<br><br>
+
+## Results
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/b50f7639-02fb-437b-94dd-70625aa3efa6)
+<br>_**(Top)** ECG with real time R-to-R detection using the onboard biopotential front end. **(Bottom)** EBI demonstration with electrodes placed across the thoracic cavity during respiration._<br><br>
 
 ## Contributors
 Project Researcher - Jeremy Yun
