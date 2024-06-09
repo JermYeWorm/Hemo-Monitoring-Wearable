@@ -4,8 +4,9 @@ This device is an open-source, programmable, highly-integrated wearable platform
 The ongoing work done on this project has been done with the Shah lab at the University of Maryland, College Park.
 <br><br>
 
+
 ## System Flowchart
-![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/9509c466-9438-4529-a761-cc8f7f295b4b)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/130fc2e2-656f-4bfe-95c9-b60f719724cd)
 <br><br>
 
 ## Hardware
@@ -15,7 +16,9 @@ The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of
 <br><br>
 The MCU is an open CPU and will require access through the SWD interface to enable programming through the USB port. A standard JLink with a 10 pin SWD cable connected to the J1 connector will allow for hardware debug and burning of bootloaders. 
 <br><br>
-![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/efba7726-850a-4812-9a9b-c988d411f924)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/294a5f3f-583c-4540-96e9-0055d3653be1)
+<br>
+
 <br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/6b7a42f4-19e5-4ef3-a293-142e4cccbfd8)
 <br><br>
