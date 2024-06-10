@@ -12,6 +12,8 @@ The ongoing work done on this project has been done with the Shah lab at the Uni
 <br><br>
 
 ## Hardware
+All hardware design was done with Altium Designer 2024.
+
 The wearable platform runs on a BLE capable nRF52840 MCU SoC within a NINA-B302 FIFA antenna module. 
 <br><br>
 The MCU pinout is chosen to match the I2C, SPI, and spare analog/digital pins of an Arduino Nano 33 BLE. This allows for programmming via Arduino IDE after the burning of an Arduino Nano 33 BLE bootloader without the need for internal Arduino library pinout modifications. The MCU may also be programmed directly using the nRF Connect SDK.
