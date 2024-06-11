@@ -70,7 +70,7 @@ Hierarchical Schematic Structure:<br>
 <br>_Fig 3. Isometric View_<br><br>
 
 ## Results
-![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/b50f7639-02fb-437b-94dd-70625aa3efa6)
+![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/ee90e40f-74b3-4544-9d96-b8c64cb00384)
 <br>_**(Top)** ECG with real time R-to-R detection using the onboard biopotential front end. **(Bottom)** EBI demonstration with electrodes placed across the thoracic cavity during respiration._<br><br>
 
 ## Contributors
