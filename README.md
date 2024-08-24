@@ -59,15 +59,12 @@ Hierarchical Schematic Structure:<br>
 ![image](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/156e53fa-7c06-43ac-8e4b-818b9fdacad8)
 <br>_Fig 5. Mechanical + Dimensions_<br><br>
 
-### 3D Model
-![v1-ipg-front](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/1760f4b1-e788-44fd-8f6d-9f1e72aecd05)
+### Fabricated Device
+![2](https://github.com/user-attachments/assets/1f72a4c6-8dc6-4642-bdf3-25f1adf20798)
 <br>_Fig 1. Front View_<br><br>
 
-![v1-ipg-back](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/80fedf3b-ca3c-44aa-97c2-3347b09528e7)
+![1](https://github.com/user-attachments/assets/10afcda5-7862-4310-afaf-526c9464fa2c)
 <br>_Fig 2. Back View (PPG Components Visible)_<br><br>
-
-![v1-ipg-iso](https://github.com/JermYeWorm/IPG-Wearable/assets/113321384/b7dc9d76-87b1-4f1e-a144-0eb8fcd5f38e)
-<br>_Fig 3. Isometric View_<br><br>
 
 ## Results
 ![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/ee90e40f-74b3-4544-9d96-b8c64cb00384)
