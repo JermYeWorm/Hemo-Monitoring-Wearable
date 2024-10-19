@@ -70,8 +70,11 @@ Hierarchical Schematic Structure:<br>
 ![image](https://github.com/JermYeWorm/Hemodynamic-Monitoring-Wearable/assets/113321384/ee90e40f-74b3-4544-9d96-b8c64cb00384)
 <br>_**(Top)** ECG with real time R-to-R detection using the onboard biopotential front end. **(Bottom)** EBI demonstration with electrodes placed across the thoracic cavity during respiration._<br><br>
 
+## Contact
+Inquiry about this repository can be directed towards jyun1129@umd.edu.
+
 ## Contributors
-Project Researcher - Jeremy Yun
+Primary Developer - Jeremy Yun (jyun1129@umd.edu)
 <br>
-Principal Investigator - Dr. Sahil Shah
+Principal Investigator - Dr. Sahil Shah (sshah389@umd.edu)
 <br>
