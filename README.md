@@ -1,5 +1,7 @@
 # Hemodynamic Health Monitoring Wearable Platform
-This device is an open-source, programmable, highly-integrated wearable platform capable of simultaneously measuring multiple hemodynamic biosignals. The goal is to enable real time processing by integrating both analog front end and edge ML, before wireless transmit. The current revision is electrical bioimpedance (EBI), electrocardiogram (ECG), and photoplethysmography (PPG) bio-monitoring enabled, and contains an onboard microprocessor and BLE transmit module.
+This device is an open-source, programmable, highly-integrated wearable platform capable of simultaneously measuring multiple hemodynamic biosignals. The goal is to enable real time processing by integrating both analog front end and edge ML, before wireless transmit. Our most recent paper can be found [here](https://doi.org/10.1109/MWSCAS60917.2024.10658959).
+<br><br>
+The current revision is electrical bioimpedance (EBI), electrocardiogram (ECG), and photoplethysmography (PPG) bio-monitoring enabled, and contains an onboard microprocessor and BLE transmit module.
 <br><br>
 The ongoing work on this project is with the Shah lab at the University of Maryland, College Park.
 <br><br>
